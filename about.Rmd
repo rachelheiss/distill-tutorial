@@ -8,3 +8,17 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+Hello! My name is **Rachel Heiss**, and I'm a home schooled sophomore in high school. I have five younger siblings and live near Atlanta, Georgia. I enjoy reading, writing, baking, Marvel movies, and listening to musicals, podcasts, and Taylor Swift. 
+
+## About the Project
+*Working on title*
+I'm also working on a more solid idea but I'm looking at ticket price, seats in theatre vs. seats sold, number of previews, and potential gross of broadway shows since 1985.
+
+### Goals
+* See what shows are the most popular over time
+  + Potential gross for shows only starts showing up in the data in 1995
+* See how average ticket price changed over time
+
+"This is data science"  ~Preceptor
+[“Kane’s Free High School Data Science Bootcamp”](https://bootcamp.davidkane.info)
