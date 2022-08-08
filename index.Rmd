@@ -9,6 +9,7 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 library(tidyverse)
 library(ggthemes)
+library(distill)
 ```
 
 ```{r car-plot}
